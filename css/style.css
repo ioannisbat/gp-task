@@ -1,0 +1,87 @@
+.navbar-dark {
+  background: #064365;
+}
+
+.navbar-dark .navbar-toggler {
+  border: 0px;
+}
+
+.fa {
+    color:white;
+    margin-right: 15px;
+}
+
+.jumbotron {
+  background-image: url("../images/form-bg.jpg");
+  color: white;
+  padding-top: 150px;
+  padding-bottom: 60px;
+}
+
+.display-4 {
+  font-weight: bold;
+}
+
+.tasi-text {
+  padding-right:17px;
+}
+
+.forma-upografis {
+  background-color: white;
+  padding-top: 30px;
+  padding-bottom: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.card-header .title {
+font-size: 17px;
+}
+
+.card-header .accicon {
+  float: right;
+  font-size: 20px;
+  width: 1.2em;
+}
+
+.card-header{
+  cursor: pointer;
+  border: 0px;
+  color: white;
+  background-color: #1B4362;
+}
+
+.card{
+  border: 0px solid #ddd;
+  padding-bottom: 20px;
+}
+
+.card-body{
+  border-top: 1px solid #ddd;
+}
+
+.card-header:not(.collapsed) .rotate-icon {
+  transform: rotate(180deg);
+}
+
+.action-pic {
+  margin: 30px 0px;
+}
+
+.btn {
+  background: #F36C36;
+  color: white;
+}
+
+.action-text {
+  padding-bottom: 20px;
+}
+
+footer {
+  background: #13324A;
+}
+
+.main-footer{
+  background: #064365;
+  padding: 10px;
+}
